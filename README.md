@@ -1,6 +1,6 @@
 # time_storage
 
-A program to record and store the current date and time at the press of a button.
+This program allows the user to press a button to record the date and time. It supports deletion of the last created time and keeps track of how many date/time entries you have. The user may print at any time. Instructions for how to use the program are outputted at the start of the program.
 
 ## Installation
 
